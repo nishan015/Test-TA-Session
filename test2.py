@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+print("this is a corrected test phrase")
